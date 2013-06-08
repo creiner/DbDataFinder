@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbDataFinder", "DbDataFinder\DbDataFinder.csproj", "{E32D8942-0AD3-4F9D-8C6F-EE97AAE1A2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32D8942-0AD3-4F9D-8C6F-EE97AAE1A2B1}.Debug|x86.ActiveCfg = Debug|x86
+		{E32D8942-0AD3-4F9D-8C6F-EE97AAE1A2B1}.Debug|x86.Build.0 = Debug|x86
+		{E32D8942-0AD3-4F9D-8C6F-EE97AAE1A2B1}.Release|x86.ActiveCfg = Release|x86
+		{E32D8942-0AD3-4F9D-8C6F-EE97AAE1A2B1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
